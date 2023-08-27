@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="16" viewBox="0 0 14 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect y="-3" width="14" height="16" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="li_1" data-name="li 1" transform="translate(0 3)" clip-path="url(#clip-path)" style="isolation: isolate">
+    <g id="li_949" data-name="li 949" transform="translate(-198.536 -1049.105)">
+      <text id="_" data-name="＊" transform="translate(198.536 1061.106)" fill="#91d2d9" font-size="14" font-family="HiraginoSans-W5, Hiragino Sans" letter-spacing="-0.028em"><tspan x="0" y="0">＊</tspan></text>
+      <text id="_2" data-name="＊" transform="translate(198.536 1061.106)" fill="#91d2d9" font-size="14" font-family="HiraginoSans-W5, Hiragino Sans" letter-spacing="-0.028em"><tspan x="0" y="0">＊</tspan></text>
+    </g>
+  </g>
+</svg>
